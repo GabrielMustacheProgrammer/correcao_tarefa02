@@ -1,3 +1,4 @@
+https://gabrielmustacheprogrammer.github.io/correcao_tarefa02/
 # ⚖️ Landing Page - Leandro Miranda Advogado
 
 Landing Page desenvolvida utilizando **HTML5**, **CSS3** e **JavaScript puro**, com foco em apresentar os serviços do advogado **Leandro Miranda**, destacando suas áreas de atuação, experiência e facilitando o contato com potenciais clientes.
